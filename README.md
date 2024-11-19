@@ -3,6 +3,9 @@
 
 Name: 
   Jeff Kim
+  
   Jason Marquez
+  
   Dante Berouty
+  
   David Mei
