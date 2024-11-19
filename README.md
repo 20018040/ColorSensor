@@ -2,8 +2,8 @@
 491A Senior Project Fall 2024
 
 Name: 
-  Jeff Kim
   
+  Jeff Kim
   Jason Marquez
   
   Dante Berouty
